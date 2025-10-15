@@ -1,0 +1,13 @@
+body {
+    background-color: #222; /* dark gray */
+    font-family: Arial, sans-serif;
+}
+
+p {
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+img {
+    border: 3px solid #333;
+}
