@@ -13,6 +13,15 @@ div {
   background-color: DodgerBlue;
 }
 
+.grid-container {
+  display: grid;
+  align:center;
+  background-color: black;
+  margin-left: 40%;
+  margin-right: 40%;
+  padding: 10px;
+}
+
 .container div {
   background-color: #f1f1f1;
   margin: 10px;
